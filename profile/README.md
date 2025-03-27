@@ -2,7 +2,7 @@
 
 Welcome to **DERIQ.AI**
 
-DERIQ.AI is focused on helping customers to Deepen Engineering Reliability and Quality
+Our Mission is: **Delivering Engineering Reliability and Quality with AI**
 
 Deriq brings AI driven approach to software engineering and operations. Deriq will improve your productivity, reduce costs, and amplify business success!!
 
